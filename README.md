@@ -22,3 +22,4 @@ Blender is a powerful open-source 3D computer graphics software that offers a co
 
 The Python script uses Blender's Python API to interact with the 3D environment and create objects. It follows a structured process to generate a bunch of objects based on the specified parameters, such as object type, size, position, and materials. The script can be easily customized to create different types of objects or modify their attributes according to your needs.
 
+s
